@@ -80,9 +80,7 @@
 
 ### 🖤 Сделано с уважением к системам и байтам
 
-<img src="https://komarev.com/ghpvc/?username=VeoQeo&style=flat-square&color=red" alt="Просмотры профиля" />  
-<img src="https://img.shields.io/badge/Оптимизация-уровень-ядра-blue?style=flat-square" />  
-<img src="https://img.shields.io/badge/Качество-кода-99%25-success?style=flat-square" />  
+<img src="https://komarev.com/ghpvc/?username=VeoQeo&style=flat-square&color=red" alt="Просмотры профиля" />   
 
 </div>
 
