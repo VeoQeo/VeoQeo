@@ -1,73 +1,63 @@
-<!-- ================================================ -->
-<!--  VEQOQEO - НИЗКОУРОВНЕВОЕ ПРОГРАММИРОВАНИЕ -->
-<!-- ================================================ -->
+<div align="center">
 
-<h1 align="center">⚙️ VeoQeo =) ⚙️</h1>
+<img src="assets/banner.svg" width="100%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Системное+программирование;Ассемблер+и+оптимизация;C+%7C+C%23+%7C+Python+%7C+Shell;Работа+с+памятью+и+железом" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=VeoQeo&label=Profile%20Views&color=a424d6&style=flat" alt="Profile Views" />
+</p>
+
+
+# VeoQeo
+
+Low-level Software Developer
+
+Building software from scratch. Interested in operating systems, computer architecture and systems programming.
+
+</div>
+
+---
+
+## About
+
+I'm a self-taught developer focused on understanding how computers work beyond high-level abstractions.
+
+My main interests are operating systems, kernel development, memory management and low-level programming. Most of my work is written in C and targets Linux and x86_64.
+
+---
+
+## Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,git,github,py,vscode"/>
+</p>
+
+<p align="center">
+<b>x86_64</b> • <b>Assembly</b> • <b>Operating Systems</b> • <b>Kernel Development</b> • <b>Computer Architecture</b>
 </p>
 
 ---
 
-## Кто я
-
-Я — **низкоуровневый программист**, который пишет код, понятный машине, а не менеджеру.  
-Работаю на **C, ASM (GAS/NASM), C#, Python, Shell** — всё, что позволяет быть ближе к системе.  
-
-Разбираюсь в **памяти, системных вызовах, бинарных форматах, оптимизации, работе ядра**.  
-В коде люблю **точность, эффективность и контроль**, а не лишние абстракции.
-
----
-
-## Мой стек
-
-| Направление | Инструменты / Технологии |
-|--------------|--------------------------|
-| **Низкоуровневое программирование** | C, ASM (NASM/GAS) |
-| **Системное ПО и драйверы** | Syscalls, Linux API, Memory Management |
-| **Скрипты и автоматизация** | Shell (bash/zsh), Python |
-| **Инструменты отладки** | gdb, objdump |
-| **Дополнительно** | C#, .NET, Git, Linux, Vim |
-
----
-
-## Инструменты
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,python,bash,linux,git,vim,dotnet" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VeoQeo&show_icons=true&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeoQeo&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
-## Детальные метрики
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VeoQeo&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VeoQeo&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=VeoQeo&theme=transparent&hide_border=true"/>
 </p>
 
----
-
-## Чем занимаюсь
-
-- Системное и низкоуровневое программирование  
-- Оптимизация, работа с памятью, профилирование  
-- Разработка инструментов и утилит на C/ASM  
-- Автоматизация процессов через Shell и Python   
-
----
-
-## Контакты
-
-- 💬 Telegram: [@veoqeo](https://t.me/veoqeo) *  
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VeoQeo&theme=github-compact&hide_border=true"/>
+</p>
 
 ---
 
 <div align="center">
 
-### 🖤 Сделано с уважением к системам и байтам
-
-<img src="https://komarev.com/ghpvc/?username=VeoQeo&style=flat-square&color=red" alt="Просмотры профиля" />   
+<img src="https://i.gifer.com/8GXP.gif" width="25%"/>
 
 </div>
 
----
+<div align="center">
+
+</div>
