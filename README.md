@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="50%">
+<img src="assets/banner.jpg" width="80%">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VeoQeo&label=Profile%20Views&color=a424d6&style=flat" alt="Profile Views" />
@@ -36,11 +36,6 @@ My main interests are operating systems, kernel development, memory management a
 </p>
 
 ---
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VeoQeo&show_icons=true&hide_border=true&theme=transparent"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeoQeo&layout=compact&hide_border=true&theme=transparent"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=VeoQeo&theme=transparent&hide_border=true"/>
