@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%">
+<img src="assets/banner.svg" width="50%">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VeoQeo&label=Profile%20Views&color=a424d6&style=flat" alt="Profile Views" />
